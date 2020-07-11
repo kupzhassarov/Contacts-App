@@ -20,6 +20,7 @@
 		2B088B3F23333D5100A51C5C /* AddContactController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B088B3E23333D5100A51C5C /* AddContactController.swift */; };
 		2B088B432337226400A51C5C /* EditController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B088B422337226400A51C5C /* EditController.swift */; };
 		2B2E9B3924B9A09F00EEDDF9 /* MargulanModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B2E9B3824B9A09F00EEDDF9 /* MargulanModel.swift */; };
+		2B2E9B3B24B9A5BA00EEDDF9 /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B2E9B3A24B9A5BA00EEDDF9 /* Test.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,6 +60,7 @@
 		2B088B3E23333D5100A51C5C /* AddContactController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddContactController.swift; sourceTree = "<group>"; };
 		2B088B422337226400A51C5C /* EditController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditController.swift; sourceTree = "<group>"; };
 		2B2E9B3824B9A09F00EEDDF9 /* MargulanModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MargulanModel.swift; sourceTree = "<group>"; };
+		2B2E9B3A24B9A5BA00EEDDF9 /* Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,6 +123,7 @@
 				2B088B112332372200A51C5C /* LaunchScreen.storyboard */,
 				2B088B142332372200A51C5C /* Info.plist */,
 				2B2E9B3824B9A09F00EEDDF9 /* MargulanModel.swift */,
+				2B2E9B3A24B9A5BA00EEDDF9 /* Test.swift */,
 			);
 			path = Contacts;
 			sourceTree = "<group>";
@@ -276,6 +279,7 @@
 			files = (
 				2B088B3F23333D5100A51C5C /* AddContactController.swift in Sources */,
 				2B088B432337226400A51C5C /* EditController.swift in Sources */,
+				2B2E9B3B24B9A5BA00EEDDF9 /* Test.swift in Sources */,
 				2B088B3B23323DDB00A51C5C /* ContactsCell.swift in Sources */,
 				2B088B3923323AA700A51C5C /* Contacts.swift in Sources */,
 				2B088B3D233240F900A51C5C /* DetailViewController.swift in Sources */,
